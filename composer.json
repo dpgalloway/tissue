@@ -18,8 +18,8 @@
   ],
   "require": {
     "php": ">=5.4",
-    "symfony/options-resolver": "3.0.*",
-    "symfony/process": "3.0.*"
+    "symfony/options-resolver": "~3.0",
+    "symfony/process": "~3.0"
   },
   "autoload": {
     "psr-4": {
