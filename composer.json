@@ -1,5 +1,5 @@
 {
-  "name": "bubnov/tissue",
+  "name": "dpgalloway/tissue",
   "description": "A PHP library that scans your files for viruses using the adapter of your choice",
   "keywords": [
     "anti-virus",
